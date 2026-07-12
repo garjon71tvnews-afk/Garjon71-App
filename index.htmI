@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Garjon71 TV</title>
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f5f5f5;
+}
+header{
+background:#b30000;
+color:white;
+padding:20px;
+text-align:center;
+}
+nav{
+background:#006400;
+padding:10px;
+text-align:center;
+}
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+section{
+padding:30px;
+text-align:center;
+}
+.card{
+background:white;
+padding:20px;
+margin:20px;
+border-radius:10px;
+box-shadow:0 2px 8px rgba(0,0,0,.2);
+}
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>গর্জন ৭১ টিভি</h1>
+<p>সত্য ও বস্তুনিষ্ঠ সংবাদ মানুষের পথে মানুষের সাথে</p>
+</header>
+
+<nav>
+<a href="#">হোম</a>
+<a href="#">সর্বশেষ সংবাদ</a>
+<a href="#">ভিডিও</a>
+<a href="#">লাইভ টিভি</a>
+<a href="#">যোগাযোগ</a>
+</nav>
+
+<section>
+
+<div class="card">
+<h2>Garjon71 TV-তে আপনাকে স্বাগতম</h2>
+<p>দেশ ও বিশ্বের সর্বশেষ সংবাদ দ্রুত এবং নির্ভুলভাবে পরিবেশন করাই আমাদের লক্ষ্য।</p>
+</div>
+
+<div class="card">
+<h2>লাইভ টিভি</h2>
+<p>শীঘ্রই যুক্ত হবে।</p>
+</div>
+
+<div class="card">
+<h2>যোগাযোগ</h2>
+<p>Email: garjon71tvnews@gmail.com</p>
+</div>
+
+</section>
+
+<footer>
+© 2026 Garjon71 TV | All Rights Reserved
+</footer>
+
+</body>
+</html>
